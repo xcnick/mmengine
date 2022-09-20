@@ -1,3 +1,4 @@
+cloudpickle
 coverage
 lmdb
 pytest

@@ -1,4 +1,5 @@
 addict
+cloudpickle
 matplotlib
 numpy
 pyyaml
