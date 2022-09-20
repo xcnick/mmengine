@@ -1,3 +1,4 @@
+black
 cloudpickle
 coverage
 hydra-core
