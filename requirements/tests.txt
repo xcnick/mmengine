@@ -1,4 +1,8 @@
+black
+cloudpickle
 coverage
+hydra-core
 lmdb
+omegaconf
 parameterized
 pytest
