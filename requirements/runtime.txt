@@ -1,7 +1,9 @@
 addict
 cloudpickle
+hydra-core
 matplotlib
 numpy
+omegaconf
 pyyaml
 regex;sys_platform=='win32'
 termcolor
